@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Ontario Public Colleges</string>
+
+    <string-array name="colleges">
+        <item>Cambrian College</item>
+        <item>Centennial College</item>
+        <item>Conestoga College</item>
+        <item>George Brown College</item>
+        <item>Seneca College</item>
+    </string-array>
+
+    <string-array name="CambrianCampus">
+        <item>Main Campus</item>
+        <item>Espanola Campus</item>
+        <item>Manitoulin Campus</item>
+    </string-array>
+
+    <string-array name="CentennialCampus">
+        <item>Progress Campus</item>
+        <item>Morningside Campus</item>
+    </string-array>
+
+    <string-array name="ConestogaCampus">
+        <item>Doon Campus</item>
+        <item>Waterloo Campus</item>
+    </string-array>
+
+    <string-array name="SenecaCampus">
+        <item>York Campus</item>
+        <item>Newnham Campus</item>
+    </string-array>
+
+    <string-array name="GeorgebrownCampus">
+        <item>Casa Loma Campus</item>
+        <item>St. James Campus</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
